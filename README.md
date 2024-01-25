@@ -1,0 +1,2 @@
+# Issue with layout $type.
+This is a project generated with `pnpm create svelte@latest`, Typescript enabled. The layout involves server load as well as universal load. The compiler fails to resolve `./$types` for `src/routes/+layout.ts`. This happens both during build time and dev serve.
